@@ -89,7 +89,8 @@ h3 {
 }
 
 /* ------------------------------- Títulos -------------------------------*/
-.titulo span {
+.titulo span,
+.contenido-hero span {
   font-size: 2rem;
 }
 
